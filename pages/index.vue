@@ -1,5 +1,6 @@
 <template>
-  <Tutorial/>
+  <div>test</div>
+  <el-button circle>Primary</el-button>
 </template>
 
 <script lang="ts">

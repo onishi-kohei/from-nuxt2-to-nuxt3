@@ -13,7 +13,8 @@
     "@nuxt/bridge": "^0.10.1",
     "@nuxt/vite-builder": "^3.0.0-rc.13",
     "core-js": "^3.26.0",
-    "element-ui": "^2.15.10",
+    "element-plus": "^2.2.20",
+    "sass": "^1.56.0",
     "vue": "^3.2.41",
     "vue-server-renderer": "^2.7.13",
     "vue-template-compiler": "^2.7.13"
