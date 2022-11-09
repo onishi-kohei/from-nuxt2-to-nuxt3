@@ -26,13 +26,13 @@ export default defineNuxtConfig({
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    'element-ui/lib/theme-chalk/index.css',
-    '@/assets/css/tailwind.css',
+    //'element-ui/lib/theme-chalk/index.css',
+    //'@/assets/css/tailwind.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '@/plugins/element-ui'
+    //'@/plugins/element-ui'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -49,6 +49,7 @@ export default defineNuxtConfig({
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    /*
     transpile: [/^element-ui/],
     build: {
       postcss: {
@@ -58,5 +59,6 @@ export default defineNuxtConfig({
         },
       },
     }
+    */
   }
 })
